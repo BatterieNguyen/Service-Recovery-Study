@@ -10,6 +10,19 @@
 
 
 [Service failure recovery: The moderating impact of individual-level cultural value orientation on perceptions of justice](https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/S0167811606000462)
+- The high level of human involvement (both service provider and customer) in the 'manufacture' and delivery of many service means the quality of service delivery is often dependent on the attitude and behavior of front-line employees, the expectation of customers, and even the bahvior of other customers.
+
+[The join effect of consumer and service providers' culture on Online Service Evaluations: A response Surface Analysis](https://eprints.whiterose.ac.uk/154043/3/Manuscript_TM_1_V23.pdf)
+
+[The impact of cultural Orientation on Post-recovery Satisfaction](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=3d2722bee712e60d26f518b529f37488bf61456c)
+
+# Attribution Theory
+[Attribution and Outcomes of the Service Recovery process](https://sci-hub.se/https://www.jstor.org/stable/40470075)
+
+[Research on the Impact of Service Failure Attribution and Recovery on Customer Satisfaction]
+
+[The Effect of Recovery Locus Attributions and Service Failure Severity on Word-of-Mouth and Repurchase Behaviors in the Hospitality Industry](https://journals.sagepub.com/doi/10.1177/1096348010382237#bibr23-1096348010382237)
+
 
 # RECOMMENDATION FOR FUTURE RESEARCH
 
