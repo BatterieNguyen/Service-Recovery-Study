@@ -4,11 +4,12 @@
 [The role of culture in the perception of SR](https://d1wqtxts1xzle7.cloudfront.net/51142206/The_role_of_culture_in_the_perception_of20170101-22147-138t20-libre.pdf?1483297589=&response-content-disposition=inline%3B+filename%3DThe_role_of_culture_in_the_perception_of.pdf&Expires=1704381481&Signature=SHCGRS5jmpSlFiAJLI6gRpXPMdZBK1sHLSmNEaBoNaGu3LKpRq3akJZYVkvcgd5vYVCFWfcMfx5wPrAvzN1CyiFcLjVRFfs3PvQN9s9GS~A8AkhCWGBMFMsrcoShDf87psn~P454vE4H43ej9e8tzhtu4EPtku4gmL1zqIqnmLmcFPUimUy8CAujqS4JE4vKNyqLjYSRa~BRvcukl8OjDZa9GfmkT2iLPSrW1Tx2oQJts00twhtcAG~qW8WNazK-MaqsAexr1IctMEQwlwPbq~AJ-R9aIU4MhV6PuAmDaHr6F3FE5RdQMgz3ub0C7IrRpEB7Yhj1UY0jpqW2aHm2~A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 
 - Cultural differences on consumer satisfaction seems to indicte fundamental difference in the way consumers evaluate products and services as well as the way satisfaction/ dissatisfaction is expressed (Chiu et al., 1987; Hernandez et al., 1991; Yau, 1988)
-- 
 
-[An empirical investigation of the role of culture on SR expectations](https://d1wqtxts1xzle7.cloudfront.net/34640759/role_of_culture-libre.pdf?1409959000=&response-content-disposition=inline%3B+filename%3DManaging_Service_Quality_An_Internationa.pdf&Expires=1704381774&Signature=gxRIv3PP37k3jqjSphnELU4vFvA9LotXKydMt7NVF4S-m3synszblGg7VuI4RVznCMgv4lvbG-oaOqEI14aaXNDN26VXA9JVdHmtHbpnPNS-CnW8freqD5EHsf~tv7vuNVChsrZgoVdUh5Z6ur57LdbCw4FwURxzuE~UimR--VJX7iLVo~9C5OXfw~vHFAZMinTuOXThs4xDvpZ8jbr1k36JKEEXrB70S6ioUDUbweh0FcARt0HSQqRo31WFtTMiJsp~LaDRDFoWUMumt~RXXJiT-ZF7Gdm4VZUYZqbuxvn6znlxSXFw1rCLefm8Zh9xgFcmiljKI5kMENUkss2fgg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 
-[Service failure recovery: The moderating impact of individual-level cultural value orientation on perceptions of justice](https://d1wqtxts1xzle7.cloudfront.net/87107056/j.ijresmar.2006.02.00420220606-1-yk1scq-libre.pdf?1654558455=&response-content-disposition=inline%3B+filename%3DService_failure_recovery_The_moderating.pdf&Expires=1704382026&Signature=ZTBnHEzuOfokxjTSO6NWdQS-ZG62218LcWA~G4ZJgtBQV6nB~UiUtAFBcaA09orWbxkzFQM-Zx24WqtFq8x1KIQ5WUIo4GjJw5P3LTnKksPdNAwm~D~8Pr-xV-vrRtN3suihx~18DZX33NnsQKuQEAgFfXb~3Kn6H~o9AyVOfgikbL4ei4trrxlc7Vik79HmQ08AxGX2fjv9B0MfmQ0XP7Z8kVIKq5sfhH1pSUx05QiODDaBXEniGX6D28NnJ97BeBamBXNPdXj6Z9Fx5426qiJzBF9Y3tvEr36HW~5SJ7eJe3uFGP5aroFsqVvW26W~UHtFhzZf9pMWRhFnO~hQRQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+[An empirical investigation of the role of culture on SR expectations](https://sci-hub.se/https://www.emerald.com/insight/content/doi/10.1108/09604520510575263/full/html?skipTracking=true)
+
+
+[Service failure recovery: The moderating impact of individual-level cultural value orientation on perceptions of justice](https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/S0167811606000462)
 
 # RECOMMENDATION FOR FUTURE RESEARCH
 
