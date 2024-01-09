@@ -1,8 +1,8 @@
 # THE OCCURRENCE OF SERVICE FAILURE
 
 # Culture vs. Service Recovery
-[The role of culture in the perception of SR](https://d1wqtxts1xzle7.cloudfront.net/51142206/The_role_of_culture_in_the_perception_of20170101-22147-138t20-libre.pdf?1483297589=&response-content-disposition=inline%3B+filename%3DThe_role_of_culture_in_the_perception_of.pdf&Expires=1704381481&Signature=SHCGRS5jmpSlFiAJLI6gRpXPMdZBK1sHLSmNEaBoNaGu3LKpRq3akJZYVkvcgd5vYVCFWfcMfx5wPrAvzN1CyiFcLjVRFfs3PvQN9s9GS~A8AkhCWGBMFMsrcoShDf87psn~P454vE4H43ej9e8tzhtu4EPtku4gmL1zqIqnmLmcFPUimUy8CAujqS4JE4vKNyqLjYSRa~BRvcukl8OjDZa9GfmkT2iLPSrW1Tx2oQJts00twhtcAG~qW8WNazK-MaqsAexr1IctMEQwlwPbq~AJ-R9aIU4MhV6PuAmDaHr6F3FE5RdQMgz3ub0C7IrRpEB7Yhj1UY0jpqW2aHm2~A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 
+1. The role of culture in the perception of SR
 - Cultural differences on consumer satisfaction seems to indicte fundamental difference in the way consumers evaluate products and services as well as the way satisfaction/ dissatisfaction is expressed (Chiu et al., 1987; Hernandez et al., 1991; Yau, 1988)
 
 
@@ -22,6 +22,9 @@
 Research on the Impact of Service Failure Attribution and Recovery on Customer Satisfaction (125947113)
 
 [The Effect of Recovery Locus Attributions and Service Failure Severity on Word-of-Mouth and Repurchase Behaviors in the Hospitality Industry](https://sci-hub.se/https://journals.sagepub.com/doi/10.1177/1096348010382237#bibr23-1096348010382237)
+
+[The Effect of Perceived Justice and Attributions Regarding Service Failure and Recovery on Post-Recovery Customer Satisfaction and Service Quality Attitudes](https://sci-hub.se/https://journals.sagepub.com/doi/abs/10.1177/109634800002400402)
+
 
 
 # RECOMMENDATION FOR FUTURE RESEARCH
