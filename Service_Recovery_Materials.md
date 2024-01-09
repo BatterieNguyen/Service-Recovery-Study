@@ -21,7 +21,7 @@
 
 Research on the Impact of Service Failure Attribution and Recovery on Customer Satisfaction (125947113)
 
-[The Effect of Recovery Locus Attributions and Service Failure Severity on Word-of-Mouth and Repurchase Behaviors in the Hospitality Industry](https://journals.sagepub.com/doi/10.1177/1096348010382237#bibr23-1096348010382237)
+[The Effect of Recovery Locus Attributions and Service Failure Severity on Word-of-Mouth and Repurchase Behaviors in the Hospitality Industry](https://sci-hub.se/https://journals.sagepub.com/doi/10.1177/1096348010382237#bibr23-1096348010382237)
 
 
 # RECOMMENDATION FOR FUTURE RESEARCH
