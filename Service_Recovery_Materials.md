@@ -25,6 +25,7 @@ Research on the Impact of Service Failure Attribution and Recovery on Customer S
 
 [The Effect of Perceived Justice and Attributions Regarding Service Failure and Recovery on Post-Recovery Customer Satisfaction and Service Quality Attitudes](https://sci-hub.se/https://journals.sagepub.com/doi/abs/10.1177/109634800002400402)
 
+[The Effects of Stability and Controllability Attribution on Service Recovery Evaluation in the Context of the Airline Industry](https://sci-hub.se/https://www.tandfonline.com/doi/abs/10.1080/10548408.2014.889642)
 
 
 # RECOMMENDATION FOR FUTURE RESEARCH
