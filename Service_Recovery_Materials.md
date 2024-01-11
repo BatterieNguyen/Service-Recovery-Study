@@ -27,6 +27,7 @@ Research on the Impact of Service Failure Attribution and Recovery on Customer S
 
 [The Effects of Stability and Controllability Attribution on Service Recovery Evaluation in the Context of the Airline Industry](https://sci-hub.se/https://www.tandfonline.com/doi/abs/10.1080/10548408.2014.889642)
 
+Role of Locus on Control customer recovery service of perceived justice and its implication with recovery services (25359)
 
 # RECOMMENDATION FOR FUTURE RESEARCH
 
