@@ -33,7 +33,7 @@
 
 Role of Locus on Control customer recovery service of perceived justice and its implication with recovery services (25359)
 
-Locus of control of theory in treating tourist behavior: the theory roots and research direction in destination branding field ()
+Locus of control of theory in treating tourist behavior: the theory roots and research direction in destination branding field (gtg.47222-1054)
 
 Research on the Impact of Service Failure Attribution and Recovery on Customer Satisfaction (125947113)
 
