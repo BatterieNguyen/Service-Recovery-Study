@@ -31,6 +31,8 @@
 
 [The Causal Dimension Scale: A Measure of How Individuals Perceive Causes](https://www.researchgate.net/publication/232556577_The_Causal_Dimension_Scale_A_Measure_of_How_Individuals_Perceive_Causes)
 
+[The relationship between informational justice, recovery satisfaction, and loyalty: the moderating role of failure attribution](https://www.researchgate.net/profile/Davoud_Nikbin/publication/257363014_The_relationship_between_informational_justice_recovery_satisfaction_and_loyalty_The_moderating_role_of_failure_attributions/links/02e7e52506ff0cf56f000000.pdf)
+
 Role of Locus on Control customer recovery service of perceived justice and its implication with recovery services (25359)
 
 Locus of control of theory in treating tourist behavior: the theory roots and research direction in destination branding field (gtg.47222-1054)
@@ -38,8 +40,6 @@ Locus of control of theory in treating tourist behavior: the theory roots and re
 Research on the Impact of Service Failure Attribution and Recovery on Customer Satisfaction (125947113)
 
 Service recovery's impact on customers next-in-line (14_MSQ_service_recovery_-_impact_on_customers_next-in-line_2013)
-
-[The relationship between informational justice, recovery satisfaction, and loyalty: the moderating role of failure attribution](https://www.researchgate.net/profile/Davoud_Nikbin/publication/257363014_The_relationship_between_informational_justice_recovery_satisfaction_and_loyalty_The_moderating_role_of_failure_attributions/links/02e7e52506ff0cf56f000000.pdf)
 
 # RECOMMENDATION FOR FUTURE RESEARCH
 
