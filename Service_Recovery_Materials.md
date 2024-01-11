@@ -19,7 +19,7 @@
 # Attribution Theory
 [Attribution and Outcomes of the Service Recovery process](https://sci-hub.se/https://www.jstor.org/stable/40470075)
 
-Research on the Impact of Service Failure Attribution and Recovery on Customer Satisfaction (125947113)
+[Service recovery attributions and word-of-mouth intentions](https://sci-hub.se/https://www.emerald.com/insight/content/doi/10.1108/03090560110363463/full/html)
 
 [The Effect of Recovery Locus Attributions and Service Failure Severity on Word-of-Mouth and Repurchase Behaviors in the Hospitality Industry](https://sci-hub.se/https://journals.sagepub.com/doi/10.1177/1096348010382237#bibr23-1096348010382237)
 
@@ -28,6 +28,10 @@ Research on the Impact of Service Failure Attribution and Recovery on Customer S
 [The Effects of Stability and Controllability Attribution on Service Recovery Evaluation in the Context of the Airline Industry](https://sci-hub.se/https://www.tandfonline.com/doi/abs/10.1080/10548408.2014.889642)
 
 Role of Locus on Control customer recovery service of perceived justice and its implication with recovery services (25359)
+
+Locus of control of theory in treating tourist behavior: the theory roots and research direction in destination branding field ()
+
+Research on the Impact of Service Failure Attribution and Recovery on Customer Satisfaction (125947113)
 
 # RECOMMENDATION FOR FUTURE RESEARCH
 
