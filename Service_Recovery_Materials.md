@@ -39,6 +39,8 @@ Research on the Impact of Service Failure Attribution and Recovery on Customer S
 
 Service recovery's impact on customers next-in-line (14_MSQ_service_recovery_-_impact_on_customers_next-in-line_2013)
 
+[The relationship between informational justice, recovery satisfaction, and loyalty: the moderating role of failure attribution](https://www.researchgate.net/profile/Davoud_Nikbin/publication/257363014_The_relationship_between_informational_justice_recovery_satisfaction_and_loyalty_The_moderating_role_of_failure_attributions/links/02e7e52506ff0cf56f000000.pdf)
+
 # RECOMMENDATION FOR FUTURE RESEARCH
 
 ## [SF and SR in Hospitality and Tourism: a review of literature and recommendations for future studies](https://www.researchgate.net/profile/Erdogan-Koc/publication/328722656_Service_failures_and_recovery_in_hospitality_and_tourism_a_review_of_literature_and_recommendations_for_future_research/links/6087192a8ea909241e28bad1/Service-failures-and-recovery-in-hospitality-and-tourism-a-review-of-literature-and-recommendations-for-future-research.pdf)
