@@ -27,6 +27,10 @@
 
 [The Effects of Stability and Controllability Attribution on Service Recovery Evaluation in the Context of the Airline Industry](https://sci-hub.se/https://www.tandfonline.com/doi/abs/10.1080/10548408.2014.889642)
 
+[Service Failure and Recovery:The Impact of RelationshipFactors on Customer Satisfaction](https://www.researchgate.net/publication/246926198_Service_Failure_and_Recovery_The_Impact_of_Relationship_Factors_on_Customer_Satisfaction)
+
+[The Causal Dimension Scale: A Measure of How Individuals Perceive Causes](https://www.researchgate.net/publication/232556577_The_Causal_Dimension_Scale_A_Measure_of_How_Individuals_Perceive_Causes)
+
 Role of Locus on Control customer recovery service of perceived justice and its implication with recovery services (25359)
 
 Locus of control of theory in treating tourist behavior: the theory roots and research direction in destination branding field ()
