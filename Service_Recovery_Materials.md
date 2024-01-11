@@ -37,7 +37,7 @@ Locus of control of theory in treating tourist behavior: the theory roots and re
 
 Research on the Impact of Service Failure Attribution and Recovery on Customer Satisfaction (125947113)
 
-Service recovery's impact on customers next-in-line ()
+Service recovery's impact on customers next-in-line (14_MSQ_service_recovery_-_impact_on_customers_next-in-line_2013)
 
 # RECOMMENDATION FOR FUTURE RESEARCH
 
