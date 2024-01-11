@@ -32,8 +32,9 @@
 * Controllability is negatively related to recovery satisfaction.
 
 # Measurement Scales
-### Locus of Casuality
-
+### Locus of Control
+* In my opinion, the failure the complaining customer experienced was:
+* The complaining customer’s fault – The [service provider]’s fault Caused by the complaining customer – caused by the [service provider]
 ### Stability
 * The cause of service failure was something temporary/ permanent.
 * The cause of the service failure was something that varied over time/ was stable over time
