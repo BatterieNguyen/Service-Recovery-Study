@@ -35,6 +35,7 @@ ___Definition___
 
 # Word-of-mouth Intention
 
+
 # Hypothesis Development
 ## 1. Dostributive Justice to Post-Recovery Satisfaction
 ___Hypothesis 1. Distributive justice positively affects the post-recovery satisfaction in the Tourism Industry.___
@@ -52,7 +53,9 @@ ___Hypothesis 5. Stability is negatively related to post-recovery satisfaction i
 ___Hypothesis 6. Controllability is negatively related to post-recovery satisfaction in the Tourism Industry.___
 
 ## 7. Post-Recovery Satisfaction to Word-of-mouth intention
-
+  WOM is generally defined as “all informal communications directed at other consumers about the ownership, usage, or characteristics of particular goods and services or their sellers” (Hennig-Thurau and Walsh, 2004, p. 51). WOM communication directly influences consumer decisions on purchasing and loyalty, and thus researchers have widely studied the effects of WOM on consumer behavior for the past 50 years. In the service-related studies, WOM has been emphasized because consumers are prone to rely on WOM information to reduce perceived risks prior to service purchase (Haywood, 1989). Moreover, WOM communication is becoming a critical factor in service recovery related studies because an unsatisfied consumer who encounters a service failure may become highly engaged in negative WOM about the service provider (Kau and Loh, 2006). Positive or negative WOM communication is highly related to consumers’ behavioral intentions. Consequently, it affects corporate sales and profits. Consumers who encounter appropriate services tend to engage in positive WOM communication, and positive WOM has been studied as an outcome of consumer satisfaction in service recovery (Kau and Loh, 2006). Blodgett et al. (1997) found that satisfied consumers with proper services positively influence their WOM intentions. Collier and Bienstock (2006) found that consumers unsatisfied by service recovery become involved in negative WOM. Thus, consumer satisfaction has been studied as a detrimental factor in consumers’ WOM intentions (Weun et al., 2004). Therefore, this study anticipated that customer satisfaction influences customer WOM intentions, as the following hypothesis indicates:
+  
+___Hypothesis 7. The Post-Recovery Satisfaction positively affects the Word-of-mouth Intentions in the Tourism Industry.___
 
 # Previous Study
 
@@ -60,3 +63,5 @@ ___Hypothesis 6. Controllability is negatively related to post-recovery satisfac
 [The Relationship of Service Failure Attributions, Service Recovery Justice and Recovery Satisfaction in the Context of Airlines](https://sci-hub.se/https://www.tandfonline.com/doi/abs/10.1080/15022250.2012.724923)
 
 Effects of Stability and Controllability Attribution on Service Recovery Evaluation in the Context of the Airline Industry
+
+Effect of service recovery on customers’ perceived justice, satisfaction, and word-of-mouth intentions on online shopping websites
