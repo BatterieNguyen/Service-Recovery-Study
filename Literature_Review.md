@@ -34,7 +34,7 @@ ___Definition___
 # Post-Recovery Satisfaction
 
 # Word-of-mouth Intention
-
+  Because of the intangible nature of service, the importance of word-of-mouth communications in the service industry has been widely examined. Word-of-mouth may establish beneficial in provoking a brand switch and help a service firm in gaining new customers. Based in the theory of equity, service providers can encourage consumer to spread positive recommendations by responding fairly to an inequitable service failure (Goodwin and Ross, 1992). Furthermore, literature suggests that a relationship exists between effectively service recovery and positive word-of-mouth behavior (e.g., Blodgett et al., 1997).
 
 # Hypothesis Development
 ## 1. Dostributive Justice to Post-Recovery Satisfaction
