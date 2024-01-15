@@ -12,11 +12,22 @@ Specifically, the scale for service failure attributions was adapted from previo
 
 
 ## Stability
-
+* The cause of service failure was something temporary/ permanent.
+* The cause of the service failure was something that varied over time/ was stable over time
+* The cause of the service failure was something changeable/ unchangeable.
 
 ## Controllability
+* The cause of the service failure was something uncontrollable/ controllable
+* The cause of the service failure was something unpreventable/ preventable.
+* The cause of the service failure was something unavoidable/ avoidable.
 
 ## Post-Recovery Satistaction
+* I am satisfied with the manner in which the service failurewas resolved.
+* This airline’s response to the service failure was better than expected.
+* I now have a more positive attitude toward this airline.
+* Regarding this particular event, I am satisfied with this airline’s recovery effort.
+* Overall, I am satisfied with the service I received.
 
 ## Word-of-mouth Intention
+
 
