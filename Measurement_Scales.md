@@ -5,12 +5,28 @@ Specifically, the scale for service failure attributions was adapted from previo
 
 ## Distributive Justice
 
+* Compared to what you expected, the offer received (e.g., discount) was
+* Taking everything into consideration, the manager’s offer was quite fair.
+* Given the circumstances, I feel that the tourism business has offered adequate compensation.
+* The customers did not get what they observed (i.e., regarding refund, coupon, and room upgrade, and so on). (R) 
 
 ## Procedural Justice
+* My complaint was handled in very timely manner.
+* My complaint was not resolved as quickly as it should have been.
+* The procedure for handling my complaint was complicated.
+* Employees made an effort to adjust the procedure of handling my complain according to my needs.
 
 ## Interactional Justice
+* Employees were courteous to me.
+* Employees’ communication with me was appropriate.
+* Employees put the proper effort into resolving my problem.
+* Employees showed a real interest in trying to be fair.
+* Employees showed concern.
 
-
+## Recovery Disconfirmation 
+I expected the tourism business would do more in response to service failure.
+The compensation for my problem was much better than I expected the tourism business would give.
+After reading the business’s policy, I expected the tourism business would do more for me.
 ## Stability
 * The cause of service failure was something temporary/ permanent.
 * The cause of the service failure was something that varied over time/ was stable over time
@@ -22,12 +38,16 @@ Specifically, the scale for service failure attributions was adapted from previo
 * The cause of the service failure was something unavoidable/ avoidable.
 
 ## Post-Recovery Satistaction
-* I am satisfied with the manner in which the service failurewas resolved.
-* This airline’s response to the service failure was better than expected.
-* I now have a more positive attitude toward this airline.
-* Regarding this particular event, I am satisfied with this airline’s recovery effort.
+* I am satisfied with the manner in which the service failure was solved.
+* This tourism business’s response to the service failure was better than I expected.
+* Regarding this particular event, I am satisfied with this tourism business.
+* I now have a more positive attitude toward this tourism business.
 * Overall, I am satisfied with the service I received.
 
+
 ## Word-of-mouth Intention
+* I would recommend this tourism business to other people.
+* I would tell other people positive things about this tourism business.
+
 
 
