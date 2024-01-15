@@ -65,8 +65,5 @@
 ___Note___:  the scale for service failure attributions was adapted from previous studies in psychology and marketing (Bulman & Wortman, 1977; Hess et al., 2003; Russell, 1982)
 
 
-# Reference
-[The Relationship of Service Failure Attributions, Service Recovery Justice and Recovery Satisfaction in the Context of Airlines](https://sci-hub.se/https://www.tandfonline.com/doi/abs/10.1080/15022250.2012.724923)
 
-Effects of Stability and Controllability Attribution on Service Recovery Evaluation in the Context of the Airline Industry
 
