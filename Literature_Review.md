@@ -36,6 +36,12 @@ ___Definition___
 # Word-of-mouth Intention
   Because of the intangible nature of service, the importance of word-of-mouth communications in the service industry has been widely examined. Word-of-mouth may establish beneficial in provoking a brand switch and help a service firm in gaining new customers. Based in the theory of equity, service providers can encourage consumer to spread positive recommendations by responding fairly to an inequitable service failure (Goodwin and Ross, 1992). Furthermore, literature suggests that a relationship exists between effectively service recovery and positive word-of-mouth behavior (e.g., Blodgett et al., 1997).
 
+___Antecedents___
+
+  Previous research has established the importance of satisfaction and dissatisfaction as antecedents of word-of-mouth behavior (Richins, 1983). While a service failure and recovery provide the opportunity to delight the customer, resulting in positive word-ofmouth communications, it likewise presents the possibility of disappointing the customer, leading to negative word-of-mouth behavior.
+
+  Previous research indicates that consumers are more likely to engage in negative word of mouth than positive word of mouth (e.g., Arndt, 1967; Richins, 1983). For example, Hart, Heskett, and Sasser (1990) suggest that those who have experienced poor service tell approximately 11 people while those with pleasant experiences tell only six. Research also shows that relative to positive word of mouth, negative word of mouth is more influential in determining the word of mouth receiver’s attitudes and purchase intentions (Herr, Kardes, & Kim, 1991). Further, preliminary research indicates that negative word of mouth may be particularly detrimental in the Internet environment, where “word of mouse spreads even faster than word of mouth” (Reichheld & Schefter, 2000, p. 107), magnifying the need to understand the potential impact of negative word of mouth in an online context. As such, a primary goal of service recovery management involves minimizing the negative word of mouth so common after service failure/ recovery encounters, making this construct a focus of previous service failure/recovery research (e.g., Blodgett, Granbois, & Walters, 1993; DeWitt & Brady, 2003).
+
 # Hypothesis Development
 ## 1. Dostributive Justice to Post-Recovery Satisfaction
 ___Hypothesis 1. Distributive justice positively affects the post-recovery satisfaction in the Tourism Industry.___
