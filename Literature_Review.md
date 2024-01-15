@@ -51,3 +51,8 @@ ___Hypothesis 6. Controllability is negatively related to post-recovery satisfac
 
 
 # Previous Study
+
+# Reference
+[The Relationship of Service Failure Attributions, Service Recovery Justice and Recovery Satisfaction in the Context of Airlines](https://sci-hub.se/https://www.tandfonline.com/doi/abs/10.1080/15022250.2012.724923)
+
+Effects of Stability and Controllability Attribution on Service Recovery Evaluation in the Context of the Airline Industry
