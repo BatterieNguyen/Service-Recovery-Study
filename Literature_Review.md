@@ -67,6 +67,9 @@ ___Hypothesis 6. Controllability is negatively related to post-recovery satisfac
   
 ___Hypothesis 7. The Post-Recovery Satisfaction positively affects the Word-of-mouth Intentions in the Tourism Industry.___
 
+# Cultural Perceptions
+
+
 # Previous Study
 
 # Reference
